@@ -1,4 +1,4 @@
-dvanced Game Dev Platformer Assignment
+- Advanced Game Dev Platformer Assignment
 
 were looking for 2d platformer using sprite animation and 
 the following gameplay:
