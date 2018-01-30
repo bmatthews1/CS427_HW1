@@ -48,7 +48,7 @@ public class EnemyWalk : MonoBehaviour {
 	{
 		if (collision.gameObject.tag == "Player"){
 			foreach (ContactPoint2D contact in collision.contacts){
-				float a = Vector3.Angle(contact.normal, Vector3.up);
+				float a = Mathf.Abs(Vector3.Angle(contact.normal, Vector3.up));
 				if (a > 120) die();
 			}
 		}
