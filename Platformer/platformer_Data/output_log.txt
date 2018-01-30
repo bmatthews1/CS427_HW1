@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bmatthews1\Desktop\CS427_HW1\Platformer\platformer_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 3600x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.846892 ms
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: 2750 -> priority: 1 
+  Thread -> id: 2a90 -> priority: 1 
+  Thread -> id: 2d94 -> priority: 1 
+  Thread -> id: 3d20 -> priority: 1 
+  Thread -> id: 1ffc -> priority: 1 
+  Thread -> id: 37f4 -> priority: 1 
+  Thread -> id: 4448 -> priority: 1 
+  Thread -> id: 2c3c -> priority: 1 
+  Thread -> id: 3080 -> priority: 1 
+  Thread -> id: 4950 -> priority: 1 
+  Thread -> id: 426c -> priority: 1 
+  Thread -> id: 3a74 -> priority: 1 
